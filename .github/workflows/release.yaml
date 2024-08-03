@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: quay.io
-  IMAGE: quay.io/${{ github.repository }}
+  IMAGE: quay.io/tinkerbellrpardini/hegel
 
 jobs:
   release:

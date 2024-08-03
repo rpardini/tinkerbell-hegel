@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: quay.io
-  IMAGE: quay.io/${{ github.repository }}
+  IMAGE: quay.io/tinkerbellrpardini/hegel
   CGO_ENABLED: 0
   GO_VERSION: "1.21"
 
